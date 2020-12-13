@@ -2,7 +2,7 @@
   "name": "itemslide",
   "version": "1.6.0",
   "description": "A simple and beautiful JavaScript touch carousel",
-  "main": "dist/itemslide.min.js",
+  "main": "src/itemslide.js",
   "directories": {
     "example": "examples"
   },

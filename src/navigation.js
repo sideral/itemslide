@@ -70,8 +70,8 @@ var Navigation = function (carousel, anim) {
 
 
         // Non-passive event listener to enable prevention of default scrolling behavior
-        window.addEventListener('mousemove', mousemove, { passive: false });
-        window.addEventListener('touchmove', mousemove, { passive: false });
+        //window.addEventListener('mousemove', mousemove, { passive: false });
+        //window.addEventListener('touchmove', mousemove, { passive: false });
 
         // Clear selections so they wont affect sliding
         clearSelections();
